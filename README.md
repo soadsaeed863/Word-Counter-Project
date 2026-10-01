@@ -32,12 +32,6 @@ This is a group project for a data structure course using C++ and Qt for GUI.
 
 13. **Simple Interface**: Offers a straightforward user interface for ease of use.
 
-## My Role
-
-- Implemented the autocorrect function in the search bar and text area.
-- Developed the functionality for finding local and global word frequencies using unordered maps.
-- Contributed in implementing the UI design into code using Qt.
-
 ## Getting Started
 
 1. Ensure that you have Qt and its extension installed in Visual Studio.
@@ -53,4 +47,4 @@ This is a group project for a data structure course using C++ and Qt for GUI.
 - Rawan Mohammed
 - Soad Saeed
 
-
+> Original repository:(https://github.com/TokaKhaled4/Data_Structure_Project)
